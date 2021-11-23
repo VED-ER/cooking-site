@@ -1,8 +1,8 @@
-# Google-calendar-clone
+# Cooking-site
 
-This is a similar version of google calendar where you can add,edit and delete events on each date.
+A site that lists all the recipes users have created
 
-Live Site URL: [google-calendar-clone](https://calendar-b88c3.web.app/)
+Live Site URL: [cooking-site](https://cooking-ninja-project.web.app/)
 
 
 ## Built with
@@ -10,20 +10,18 @@ Live Site URL: [google-calendar-clone](https://calendar-b88c3.web.app/)
 - HTML
 - CSS
 - React
-- Date-fns library
+- Firebase
 
 
 ## Features:
 
-- Change current month by clicking on '<' and '>' buttons
-- Go to current date by clicking 'today' button
-- Add an event by clicking on '+' icon when hovering over any date
-- Edit an event by clicking on it
-- If there are more than 3 events on a single date, a 'x more' button will appear which when clicked, will show all the events on that date
-- When page is refreshed, all events are saved
+- Add a new recipe
+- View all recipes as well as each one individually
+- Delete any recipe
+- Realtime updates
 
 ## Screenshot
-![React App 11-22-2021 5-32-39 PM](https://user-images.githubusercontent.com/92994473/142899250-5d162da1-e722-4541-a142-b15f878a50ac.png)
+![React App 11-23-2021 2-18-09 PM](https://user-images.githubusercontent.com/92994473/143032649-80b4b804-8ab4-442d-921e-06a2af0c7bd8.png)
 
 
 
