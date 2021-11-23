@@ -15,10 +15,12 @@ Live Site URL: [cooking-site](https://cooking-ninja-project.web.app/)
 
 ## Features:
 
+- Realtime updates
+- Light/Dark mode
+- 3 color navbar switch
 - Add a new recipe
 - View all recipes as well as each one individually
 - Delete any recipe
-- Realtime updates
 
 ## Screenshot
 ![React App 11-23-2021 2-18-09 PM](https://user-images.githubusercontent.com/92994473/143032649-80b4b804-8ab4-442d-921e-06a2af0c7bd8.png)
